@@ -12,3 +12,7 @@
 3. Test if everthing is in order by listing your available S3 buckets
   - aws s3 ls
   
+
+  ## Steps
+  1. To create an Amazon S3 bucket type:aws s3 mb s3://uploadnow(bucket named uploadnow)
+  2. Create a bucket policy with a policy file name as bucket-policy.json

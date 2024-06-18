@@ -2,7 +2,7 @@
 # Author:Charles.O
 # Created on:6/12/2024
 # A bash-bashed CLI tool that can be used to upload files faster to a cloud storage
-# Usage:./script.sh
+# Usage:./charlesup.sh
 
 
 file_name=$1
