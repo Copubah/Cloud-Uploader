@@ -14,5 +14,6 @@
   
 
   ## Steps
-  1. To create an Amazon S3 bucket type:aws s3 mb s3://uploadnow(bucket named uploadnow)
+  1. To create an Amazon S3 bucket type:aws s3 mb s3://charlesup(bucket named charlesup)
+  2. To copy aws s3 cp charlesup.sh s3://charlesup/
   2. Create a bucket policy with a policy file name as bucket-policy.json
